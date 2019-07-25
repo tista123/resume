@@ -27,7 +27,7 @@
 </p>
 <h2>Experience</h2>
 
-Web team member of Technology Transfer Group(novice)
+Web team member of Technology Transfer Group
  
 </body>
 </html>
