@@ -39,7 +39,7 @@
 
 <li>1. Member of Kharagpur Data Analysis Group</li>
    
-<li>2. Former web team member of Technology Transfer Group</li>
+<li>2. Former web team member of Technology Transfer Group and worked on the institute's UG Portal(maintaining a portal where proffessors can put up projects and students can choose from those.)</li>
 </p>
 <p>
 <h2>Achievement</h2>
